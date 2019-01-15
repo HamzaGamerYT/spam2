@@ -4,7 +4,7 @@ const client2 = new Discord.Client();
 
 client.on('ready', () => {
    console.log(`----------------`);
-   console.log(`Credit Farmm - Script By : Kahrbaa `);
+   console.log(`Credit Farmm - Script By : xDHamzaGamerxD `);
    console.log(`----------------`);
    console.log(`Loadinng`);
    console.log(`Loadinng.`);
@@ -58,7 +58,7 @@ if (message.content === '!spam') {
       let count = 0;
       let ecount = 0;
       for(let x = 0; x < 90000; x++) {
-        message.channel.send(`**Credit By HamzaGamer @ＢＯＮＫＡ#1466 @sikooo#2275 نصابين**[ " ${x} " ]`)
+        message.channel.send(`**Credit By HamzaGamer **[ " ${x} " ]`)
           .then(m => {
             count++;
           })
@@ -72,7 +72,7 @@ if (message.content === '!spam') {
       let count = 0;
       let ecount = 0;
       for(let x = 0; x < 90000; x++) {
-        message.channel.send(`**Credit By HamzaGamer @ＢＯＮＫＡ#1466 @sikooo#2275 نصابين **[ " ${x} " ]`)
+        message.channel.send(`**Credit By HamzaGamer **[ " ${x} " ]`)
           .then(m => {
             count++;
           })
